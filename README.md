@@ -20,4 +20,4 @@ Some of test images in which car plate detected are in the detect plate cars.zip
  The text of recognized car license plate is in detected_plate..png file.
  
  The OCR doesnt work well for text detection of rotated car plates. 
-to improve the results we should first rotate the images to make them straight (direct) and then give them to the OCR or use another method that works better than OCR and takes the letters of plate one by one.
+to improve the results we should first rotate the images to make them straight (direct) and then give them to the OCR or use another simple model that works better than OCR and takes the letters of plate one by one,that this model is has brought in  CarPlateDetection__simpleModel.ipynb file.
